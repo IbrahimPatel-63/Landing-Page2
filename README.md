@@ -13,9 +13,6 @@ This is my **second fully responsive landing page** built using Vite and Tailwin
 
 [click here to view the live demo](https://tailwind2-seven.vercel.app/)
 
-## Screenshot
-
-![Screenshot](./images/image.png)
 
 ## 📌 Lessons Learned
 
