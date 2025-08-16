@@ -15,7 +15,7 @@ This is my **second fully responsive landing page** built using Vite and Tailwin
 
 ## Screenshot
 
-[![Screenshot](./images/image.png)](./images/image.png)
+![Screenshot](./images/image.png)
 
 ## 📌 Lessons Learned
 
